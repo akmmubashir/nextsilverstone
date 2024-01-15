@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nextjs-silverstone.vercel.app"),
+  metadataBase: new URL("https://nextsilverstone.vercel.app"),
   title: "Home TestSilverStone | Simplifying Lorem Ipsum",
   description:
     "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere ducimus possimus neque aut, ipsam quod vero rem rerum, aliquam obcaecati sed est alias magni blanditiis excepturi voluptas corporis laudantium sequi.",

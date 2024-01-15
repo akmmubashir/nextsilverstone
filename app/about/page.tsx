@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 
 type Props = {};
 export const metadata: Metadata = {
-  metadataBase: new URL("https://testsilverstone.netlify.app"),
+  metadataBase: new URL("https://nextsilverstone.vercel.app"),
   title: "About TestSilverStone | Simplifying Lorem Ipsum",
   description:
     "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere ducimus possimus neque aut, ipsam quod vero rem rerum, aliquam obcaecati sed est alias magni blanditiis excepturi voluptas corporis laudantium sequi.",
