@@ -18,7 +18,7 @@ const Navigation = (props: Props) => {
   ];
   return (
     <div className="bg-white flex px-[20px] items-center">
-      <button onClick={() => router.push("/")}>
+      <button onClick={() => router.push("/")} className="bg-none" aria-label="logo">
         <Image src={Logo} alt="" className="h-[100px] max-sm:h-[60px] w-auto" />
       </button>
       <div className="ms-auto flex max-sm:hidden">
