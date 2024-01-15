@@ -5,7 +5,7 @@ import SliderComponent from "./components/SliderComponent";
 import About from "./components/About";
 import Services from "./components/Services";
 import Image from "next/image";
-import Image3 from "../assets/Common/image3.webp";
+import Image3 from "../assets/common/image3.webp";
 import ProductList from "../components/ProductList";
 import Footer from "../components/Footer";
 

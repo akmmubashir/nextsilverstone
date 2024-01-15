@@ -1,8 +1,8 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import Slide1 from "../../assets/Slider/slide1.webp";
-import Slide2 from "../../assets/Slider/slide2.webp";
-import Slide3 from "../../assets/Slider/slide3.webp";
+import Slide1 from "../../assets/slider/slide1.webp";
+import Slide2 from "../../assets/slider/slide2.webp";
+import Slide3 from "../../assets/slider/slide3.webp";
 import Image from "next/image";
 
 type Props = {};

@@ -1,9 +1,9 @@
 import React from "react";
-import Logo from "../assets/Common/logo.webp";
-import Instagram from "../assets/Icons/instagram.svg";
-import Linkedin from "../assets/Icons/linkedin.svg";
-import Whatsapp from "../assets/Icons/whatsapp.svg";
-import Facebook from "../assets/Icons/facebook.svg";
+import Logo from "../assets/common/logo.webp";
+import Instagram from "../assets/icons/instagram.svg";
+import Linkedin from "../assets/icons/linkedin.svg";
+import Whatsapp from "../assets/icons/whatsapp.svg";
+import Facebook from "../assets/icons/facebook.svg";
 import Image from "next/image";
 
 type Props = {};

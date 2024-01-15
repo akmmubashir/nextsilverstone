@@ -1,4 +1,4 @@
-import Logo from "../assets/Common/logo.webp";
+import Logo from "../assets/common/logo.webp";
 import Image from "next/image";
 import Navigation from "./Navigation";
 

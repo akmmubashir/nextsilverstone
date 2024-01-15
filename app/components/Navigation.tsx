@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-import Logo from "../assets/Common/logo.webp";
+import Logo from "../assets/common/logo.webp";
 import { useRouter } from "next/navigation";
 
 type Props = {};

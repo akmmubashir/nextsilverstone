@@ -1,5 +1,5 @@
 import React from "react";
-import Image1 from "../../assets/Common/image1.webp";
+import Image1 from "../../assets/common/image1.webp";
 import Image from "next/image";
 
 type Props = {};
